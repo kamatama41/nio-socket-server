@@ -4,5 +4,5 @@
 com.fasterxml.jackson.core:jackson-annotations:2.11.0
 com.fasterxml.jackson.core:jackson-core:2.11.0
 com.fasterxml.jackson.core:jackson-databind:2.11.0
-org.msgpack:msgpack-core:0.8.20
+org.msgpack:msgpack-core:0.8.22
 org.slf4j:slf4j-api:1.7.30
